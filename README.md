@@ -1,0 +1,2 @@
+# FiBoost-Fitness-Application-UI-UX
+FiBoost is a home workout and calorie-tracking app prototype, developed as part of a Visual Programming course. It offers features like workout tutorials, a BMI calculator, calorie tracking, meal recommendations, nutritional information, food intake tracking, and nutrition education. The app also explores integration with fitness devices, personalized workout reminders, customized exercise programs, and weekly meal planning. FiBoost aims to support users in reaching their fitness goals and managing dietary needs conveniently from home.
