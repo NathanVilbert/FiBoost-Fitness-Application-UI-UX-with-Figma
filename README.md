@@ -17,6 +17,6 @@ Link Figma : https://www.figma.com/proto/3Qc73xjfE8DOiKQ7ATU2EU/Prototype-Aplika
 <H3 align="center">
   Tools Used<br><br>
   <a href=#>
-    <img src="https://img.shields.io/badge/Made%20with-lightgrey?style=for-the-badge" alt="Made with"><img src="https://img.shields.io/badge-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Made%20with-lightgrey?style=for-the-badge" alt="Made with"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   </a>
 </H3>
